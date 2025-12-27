@@ -1,16 +1,46 @@
-# myapp
+# 🔐 Flutter Login App
 
-A new Flutter project.
+A clean and simple **Flutter Login Application** demonstrating Flutter fundamentals, responsive UI design, navigation, form validation, state management using **Provider**, and **Dark / Light Theme support**.
 
-## Getting Started
+This project is built to showcase best practices for beginners while keeping the code structured and easy to understand.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📱 Clean and responsive Login UI
+- ✉️ Email & Password input using `TextField`
+- ✅ Form validation
+  - Proper email format validation
+  - Password non-empty validation
+- 🔁 Screen navigation using `Navigator.push`
+- 🏠 Home screen after successful login
+- 🎨 Dark Mode & Light Mode support
+- 🧠 State management using **Provider**
+- 🧩 Well-structured and readable codebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧱 App Screens
+
+- **Login Screen**
+  - Email field
+  - Password field
+  - Login button
+  - “Forgot Password?” text
+
+- **Home Screen**
+  - Displayed after successful login
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Provider** (State Management)
+- **Material Design**
+
+---
+
+
